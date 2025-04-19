@@ -4,10 +4,6 @@ Recent IT graduate from KMUTT | Frontend Developer | Passionate about building m
 
 ---
 
-## 🛠️ Skills
-- JavaScript, TypeScript, HTML, CSS/SCSS
-- React.js, Next.js, Vue.js, Tailwind CSS, Ant Design
-- Git, GitHub, Postman, Docker
 ## 🛠️ Languages & Tools
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
@@ -42,6 +38,8 @@ Recent IT graduate from KMUTT | Frontend Developer | Passionate about building m
 ---
 
 ## 📫 Contact
-- [LinkedIn](ลิงก์)
-- [Portfolio Website](ลิงก์)
+## 📫 Contact
+- Email: surachet.pich@gmail.com
+- Phone: 080-296-1098
+- Facebook: [facebook.com/yourprofile](https://www.facebook.com/surachet.pichaiwattanaporn?_rdc=1&_rdr#)
 
