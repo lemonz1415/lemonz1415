@@ -32,12 +32,6 @@ Recent IT graduate from KMUTT | Frontend Developer | Passionate about building m
 
 ---
 
-## 📜 Certificates
-- [Professional Certificates Collection](ลิงก์ Google Drive)
-
----
-
-## 📫 Contact
 ## 📫 Contact
 - Email: surachet.pich@gmail.com
 - Phone: 080-296-1098
