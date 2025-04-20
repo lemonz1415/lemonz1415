@@ -27,18 +27,19 @@ Recent IT graduate from KMUTT | Frontend Developer | Passionate about building m
   [GitHub - User](https://github.com/lemonz1415/capstone-project) | [GitHub - Admin](https://github.com/lemonz1415/capstone-project)  
   Web application for practicing English exams with AI explanations.  
   _Role: Frontend Developer_  
-  _Tech: React.js, Next.js, TailwindCSS, MySQL, Git, Docker_
+  _Tech: React.js, Next.js, TailwindCSS, MySQL, Git_
 
 - 🏢 **IT Internship: Metro Systems Corporation Plc.**   
   [Presentation Slides](https://drive.google.com/file/d/1rukZ8ffVI0-Iwdt6ZXmzLt_cEfE7vB3f/view?usp=drive_link) | [Internship Certificate](https://drive.google.com/file/d/1qMcB99uiacseigucQ6FYgHMtaHrC4B5F/view?usp=drive_link)    
-  Developed and maintained internal web app features using Next.js, TailwindCSS, and Ant Design.  
+  Developed and maintained internal web app features.  
   _Role: Frontend Developer Intern_
+  _Tech: React.js, Next.js, TailwindCSS, SCSS, Ant Design, Git_
 
 - 📢 **SIT Announcement System**   
   [GitHub](https://github.com/dodoza1415/Integrated-Project_SAS)  
   Web app for managing announcements for SIT community.  
   _Role: Frontend Developer_  
-  _Tech: Vue.js, TailwindCSS_
+  _Tech: Vue.js, TailwindCSS, Git, Docker_
 
 - 🍔 **Food Ordering Web Application**   
   [GitHub](https://github.com/dodoza1415/ClientSide-Project_Food-Ordering)  
