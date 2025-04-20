@@ -29,7 +29,7 @@ Recent IT graduate from KMUTT | Frontend Developer | Passionate about building m
   _Role: Frontend Developer_  
   _Tech: React.js, Next.js, TailwindCSS, MySQL, Git, Docker_
 
-- 🏢 **IT Internship: Metro Systems Corporation Plc.** 
+- 🏢 **IT Internship: Metro Systems Corporation Plc.**   
   [Presentation Slides](https://drive.google.com/file/d/1rukZ8ffVI0-Iwdt6ZXmzLt_cEfE7vB3f/view?usp=drive_link) | [Internship Certificate](https://drive.google.com/file/d/1qMcB99uiacseigucQ6FYgHMtaHrC4B5F/view?usp=drive_link)    
   Developed and maintained internal web app features using Next.js, TailwindCSS, and Ant Design.  
   _Role: Frontend Developer Intern_
@@ -40,7 +40,7 @@ Recent IT graduate from KMUTT | Frontend Developer | Passionate about building m
   _Role: Frontend Developer_  
   _Tech: Vue.js, TailwindCSS_
 
-- 🍔 **Food Ordering Web Application** 
+- 🍔 **Food Ordering Web Application**   
   [GitHub](https://github.com/dodoza1415/ClientSide-Project_Food-Ordering)  
   Single-page food ordering UI.  
   _Role: Frontend Developer_  
