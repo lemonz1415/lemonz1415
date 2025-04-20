@@ -24,7 +24,7 @@ Recent IT graduate from KMUTT | Frontend Developer | Passionate about building m
 
 - 🚀 **Capstone Project: English Exam Practice Platform**  
   [User Demo](https://capstone24.sit.kmutt.ac.th/nw1/) | [Admin Demo](https://capstone24.sit.kmutt.ac.th/nw1/admin/)  
-  [GitHub - User](https://github.com/lemonz1415/capstone-project) | [GitHub - Admin](https://github.com/lemonz1415/capstone-project)  
+  [GitHub - User](https://github.com/lemonz1415/Capstone-User-Frontend) | [GitHub - Admin](https://github.com/lemonz1415/Capstone-Admin-Frontend)    
   Web application for practicing English exams with AI explanations.  
   _Role: Frontend Developer_  
   _Tech: React.js, Next.js, TailwindCSS, MySQL, Git_
