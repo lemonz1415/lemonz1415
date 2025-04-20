@@ -33,7 +33,7 @@ Recent IT graduate from KMUTT | Frontend Developer | Passionate about building m
 ---
 
 ## 📫 Contact
-- Email: surachet.pich@gmail.com
-- Phone: 080-296-1098
-- Facebook: [facebook.com/yourprofile](https://www.facebook.com/surachet.pichaiwattanaporn?_rdc=1&_rdr#)
+- ✉️ Email: surachet.pich@gmail.com
+- 📱 Phone: 080-296-1098
+- [![Facebook](http://i.imgur.com/fep1WsG.png)]([https://facebook.com/yourfacebook](https://www.facebook.com/surachet.pichaiwattanaporn?_rdc=1&_rdr#)) Facebook: [Lemon Surachet](https://www.facebook.com/surachet.pichaiwattanaporn?_rdc=1&_rdr#)
 
